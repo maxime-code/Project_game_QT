@@ -1,0 +1,4 @@
+/mnt/c/Users/mroqu/Downloads/CPP_QT_TPminiprojet/CPP_QT_TPminiprojet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/mroqu/Downloads/CPP_QT_TPminiprojet/CPP_QT_TPminiprojet/cmake-build-debug/CMakeFiles/CPP_QT_TPminiprojet.dir
+/mnt/c/Users/mroqu/Downloads/CPP_QT_TPminiprojet/CPP_QT_TPminiprojet/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/mroqu/Downloads/CPP_QT_TPminiprojet/CPP_QT_TPminiprojet/cmake-build-debug/CMakeFiles/CPP_QT_TPminiprojet_autogen.dir
